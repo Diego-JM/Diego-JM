@@ -1,7 +1,7 @@
 ## Olá, eu sou o Diego Justo ✌️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-justo-mota-064684110/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegoojustoo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegoojustoo/ target="_blank")
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-JM&show_icons=true&theme=dracula)
 
