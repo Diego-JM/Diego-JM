@@ -19,9 +19,3 @@
 Sou apaixonado por tecnologia, games e pizza!
 
 <br>
-
-Inclusive, para quem gosta de games, em especial um "FPS" da Valve...
- 
-me adiciona:
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/drifous/)
